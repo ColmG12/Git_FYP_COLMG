@@ -1,0 +1,23 @@
+T00170514_ColmGallagher_Instructions
+
+1.	Running COLM_G_PROTORYPE_FINAL
+
+Open this file in Jupyter Notebook / Google Colab and click on 'Runtime' tab - 'Run all'
+
+2.	Running COLMG_UKCHARTS_SCRAPE_1
+
+Open this file in Jupyter Notebook / Google Colab and click on 'Runtime' tab - 'Run all'
+
+*The range of pages scraped can be modified by going to officialcharts.com - selecting 'Archive'
+ choosing a week of your choosing and copying the url into this line of code in the file:
+	"Getting Page https://www.officialcharts.com/charts/singles-chart/19521114/7501/ \n"
+
+3.	Running T00170514_ColmGallagher_Sentiment_Analysis_UK_music_charts_1952_2020_FYP
+
+Open this file in Jupyter Notebook / Google Colab and click on 'Runtime' tab - 'Run all'
+
+4.	Running T00170514-ColmGallagher-Sentiment Analysis UK music charts-1952-2020-FYP
+
+Download the lates version of Microsoft Power BI and click 'File' - 'Open report'
+
+*A more user friendly way to view the report is at this link - https://bit.ly/3i3bQJy
